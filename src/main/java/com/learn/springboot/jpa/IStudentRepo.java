@@ -5,5 +5,5 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface IStudentRepo extends JpaRepository<Student,Integer>{
-	findb
+	
 }
